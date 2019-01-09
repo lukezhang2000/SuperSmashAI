@@ -2,6 +2,6 @@ The project is Pygame Super Smash Brothers with Artificial Intelligence. I have 
 
 To run the program, run supersmash.py. In addition, you should have the Character.py class and its subclasses, including lucario.py, Bowser.py, Pikachu.py, and Pit.py in the same folder as supersmash.py. You should also have Surfaces.py in the same folder as supersmash.py. You should also have all the images in the images folder.
 
-To have the needed libaries for the game, you must have pygame in python 2.7. To install pygame, run pip2 install pygame onto terminal. In addition, on pyzo, you must edit your shell configurations to use python 2.7.
+To have the needed libaries for the game, you must have pygame in python 3.6. To install pygame, install pygame onto terminal. In addition, on pyzo, you must edit your shell configurations to use python 3.6.
 
 There are no shortcut commands.
